@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<h1>Hi!</h1>
+Welcome to my little blog. This is a work in progress (#iaintsorry) because I eventually want to stop paying Squarespace for hosting <a href="http://www.lawrencebarrinerii.com/" target="_blank">my current website</a>. But, as always, baby steps. 
+</br></br>
+<hr>
+
+<h1>Recent posts:</h1>
+
+<div class="posts">
+  {% for post in site.posts limit:2 %}
+    <article class="post">
+
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+
+      <div class="entry">
+        <h4>{{ post.date }}</h4>
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
+
+<hr>
+
+<h2><a href="{{ site.baseurl }}/writing">Archive</a></h2>
