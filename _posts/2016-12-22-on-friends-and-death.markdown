@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 while on this death kick, i remembered that [letter LXIII (63) from seneca, on grief for lost friends](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63), addressed the topic of friends and grief. it had some pretty great insights as they related to death. i think i'll just put down each quote and then my little reflection after each one. 
 
-# making the most of friends while they're still alive​​
+## making the most of friends while they're still alive​​
 
 > So, my dear Lucilius, behave in keeping with your usual fair-mindedness and stop misinterpreting the kindness of fortune. She has given as well as taken away. Let us therefore go all out to make the most of friends, since no one can tell how long we shall have the opportunity. Let us just think how often we leave them behind when we are setting out on some long journey or other, or how often we fail to seem them when we are staying in the same area, and we shall realize that we have lost all too much time while they are till alive.
 
@@ -20,14 +20,14 @@ finally, this phenomenon of not seeing people while they're in town and then whe
 
 this is a big part of why i've decided to just get very clear (sometimes painfully explicit, even to myself) with who my close friends are. then i set up regular hang out sessions with them so that i don't fall into this trap. it's tough, but you really can't be close with everyone all the time. so it's better, imo, to just look that in the face and deal with it in a concrete way.
 
-# friends stay with you even after death
+## friends stay with you even after death
 > Let us see to it that recollection of those we have lost becomes a pleasure to us. Nobody really cares to cast his mind back to something which he is never going to think of without pain. Inevitable as it is that the names of persons who were dear to us and are now lost should cause us a gnawing sort of pain when we think of them, that pain is not without a pleasure of its own. As my teacher Attalus used to say, ‘In the pleasure we find in the memory of departed friends there is a resemblance to the way in which certain bitter fruits are agreeable or the very acidity of an exceedingly old wine has its attraction. But after a certain interval all that pained us is obliterated and the enjoyment comes to us unalloyed.’ … Thinking of departed friends is to me something sweet and mellow. For when I had them with me it was with the feeling that I was going to lose them, and now that I have lost them I keep the feeling that I have them with me still.
 
 it's interesting that we do think of death as this irreversible moment that changes things forever. and, to be sure, it definitely does. but sometimes i find myself or hear others discussing death like we're going to forget. but, like seneca said, my experience has shown that not to be true. people who i'm really close to and are alive have basically the same relationship to me and my thoughts when they're dead. i've only had a few friends die so far, but the ones that i thought about often were that way because our lives were intertwined in such an intense way for so long that many things remind me of them. whether or not they're alive, those things still remind me of them. similiarly, friends i don't think about often are that way before or after their death. 
 
 interesting.
 
-# what can happen at any time today / death doesn't play by seniority​
+## what can happen at any time today / death doesn't play by seniority​
 
 > I realize now that my sorrowing in the way I did was mainly due to the fact that I had never considered the possibility of his dying before me. That he was younger than I was, a good deal younger too, was all that ever occurred to me – as if fate paid any regard to seniority! So let us bear it constantly in mind that those we are fond of are just as liable to death as we are ourselves…  Now I bear it in mind not only that all things are liable to death but that that liability is governed by no set rules. Whatever can happen at any time can happen today.
 
