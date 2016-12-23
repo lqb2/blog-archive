@@ -10,6 +10,19 @@
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
+/* LB CUSTOM RULES */
+/**************/
+
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        padding: 5px;
+        }
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 

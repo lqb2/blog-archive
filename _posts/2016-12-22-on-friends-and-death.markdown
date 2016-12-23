@@ -10,7 +10,7 @@ while on this death kick, i remembered that [letter LXIII (63) from seneca, on g
 
 > So, my dear Lucilius, behave in keeping with your usual fair-mindedness and stop misinterpreting the kindness of fortune. She has given as well as taken away. Let us therefore go all out to make the most of friends, since no one can tell how long we shall have the opportunity. Let us just think how often we leave them behind when we are setting out on some long journey or other, or how often we fail to seem them when we are staying in the same area, and we shall realize that we have lost all too much time while they are till alive.
 
-[this is the reason i hug people so fiercely](http://lqb2writes.tumblr.com/post/145892324822/hugs) every time you leave someone, you never know if that's the last time you'll see them. we should act like that every time. 
+[this is the reason i hug people so fiercely](http://lqb2writes.tumblr.com/post/145892324822/hugs). every time you leave someone, you never know if that's the last time you'll see them. we should act like that every time. 
 
 this is also part of the thrust behind my "go big/go deep or go home" mantra. that started with me from my tallahassee christian youth group crew (mostly roshad), but now has taken on this added meaning. since this might be the last time i see you, let's make the most of the time we have now. 
 

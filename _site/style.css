@@ -57,6 +57,17 @@ table {
 }
 
 /**************/
+/* LB CUSTOM RULES */
+/**************/
+.mbtablestyle {
+  border-collapse: collapse;
+}
+.mbtablestyle > table, .mbtablestyle td, .mbtablestyle th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 html {
