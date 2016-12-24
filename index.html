@@ -9,10 +9,10 @@ Welcome to my little blog. This is a work in progress (#iaintsorry) because I ev
 <h1>Recent posts:</h1>
 
 <div class="posts">
-  {% for post in site.posts limit:2 %}
+  {% for post in site.posts limit:3 %}
     <article class="post">
       
-      <h4>{{ post.date | date: '%d %B %Y' }}</h4>
+      <h4>{{ post.date | date_to_long_string }}</h4>
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
