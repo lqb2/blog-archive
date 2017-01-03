@@ -21,7 +21,7 @@ August | 29
 September | 36
 October | 26
 November | 29
-December | 19 (so far)
+December | 36 (so far)
 
 ### My Writing Philosophy
 
